@@ -43,7 +43,7 @@ AWS Despliegue
 1. Clonar el repositorio
 
 ```
-git clone https://github.com/Javier200151/TALLER-DE-DE-MODULARIZACI-N-CON-VIRTUALIZACI-N-E-INTRODUCCI-N-A-DOCKER-Y-A-AWS.git
+ggit clone https://github.com/Juancode-Espi/ArepDocker
 ```
 
 2. Compilar/Construir el proyecto
