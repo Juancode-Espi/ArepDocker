@@ -24,7 +24,7 @@ el contenedor que se creo en una maquina virtual EC2 en AWS con Docker instalado
 
 Pantalla Principal
 
-![](img/main.PNG)
+![](img/vista.PNG)
 
 Insertar dato
 
